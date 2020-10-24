@@ -1,0 +1,31 @@
+
+
+/**
+ * @author Aldrin Brillante
+ * @TeamName siniGANG
+ * @version 1.0
+ **/
+ 
+• [1 pt]	Must	provide	instructions	on	how	to	operate	the	program.
+
+
+Hello,
+
+Welcome to our PONG GAME. 
+
+INSTRUCTIONS
+------------ 
+
+For the single player game, you are the top paddle of the game screen. 
+
+Use keys 'a' and 'd' to move the paddle left and right. ( 'a' = left , 'd' = right )
+
+If you allow the ball to pass your paddle 5 times, YOU LOSE. "GAME OVER" WILL BE DISPLAYED ON THE OUTPUT SCREEN 
+
+
+
+
+
+
+
+

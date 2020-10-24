@@ -1,0 +1,20 @@
+Hello,
+
+This project was created in three parts. The first part is "Main.java", which was written by Jacob Gordon. The second part is the single player pong
+game "Ball1.java" written by Aldrin Brillante. The third part is multiplayer "Multiplayer.java" and was written by Lauryn
+
+
+I wrote the introduction and menu screen in Main.java. I included a simple Vec2 class so I can be lazy, and a Ball class to "jump" around the screen.
+The main class calls the other functions created by Aldrin and Lauryn. - Jacob
+
+I was responsible for the Ball1.java class, which incorporated the attributes of the single player option on Jake's menu screen. 
+Within the class, I created an AI opponent incorporated for the 'single player' option from the menu screen to be to be valid.
+Thank you, Google - Aldrin
+
+
+"" - Lauryn
+
+
+
+
+
